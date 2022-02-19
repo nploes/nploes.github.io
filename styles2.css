@@ -1,0 +1,21 @@
+body{
+	background-color: #b1dbd7;
+	padding: 30px;
+}
+h1{
+	text-align: center;
+}
+
+.CVtitle{
+	text-align: center;
+}
+
+.aboutme{
+	border-style: solid;
+	border-radius: 25px;
+	border-width: 2px ;
+	border-color: beige;
+	padding:20px;
+	text-align: center;
+
+}
